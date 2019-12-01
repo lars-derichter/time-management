@@ -19,7 +19,7 @@ Vertel ook dat een workshop als deze normaal tussen de 1000 en 2500 € kost. Ze
 
 &&&
 
-<!-- .slide: data-background-image="_images/zen-water.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/zen-water.jpg" data-background-size="contain" -->
 
 > Mind like water<br>
 > -- David Allen<br>
@@ -45,7 +45,7 @@ Normaal moet je zeker aan een 20-tal items geraken
 
 &&&
 
-![](_images/brain-dump.png) <!-- .element: class="fragment" -->
+![](images/brain-dump.png) <!-- .element: class="fragment" -->
 
 ## Brain Dump <!-- .element: class="fragment" -->
 
@@ -98,7 +98,7 @@ Een next-action is de eerstvolgende taak die je kan doen om een project dichter 
 
 ## Prioriteiten
 
-![](_images/covey-kwadranten.jpg)
+![](images/covey-kwadranten.jpg)
 
 Notes:
 
@@ -111,7 +111,7 @@ Notes:
 
 Duidt bij elke taak het kwadrant aan.
 
-![](_images/covey-kwadranten.jpg)
+![](images/covey-kwadranten.jpg)
 
 Notes:
 
@@ -157,7 +157,7 @@ Bijv. Ik wil gezonder gaan leven is veel te vaag.
 
 &&&
 
-![](_images/smart-goals.jpg)
+![](images/smart-goals.jpg)
 
 Notes:
 
@@ -171,7 +171,7 @@ Ander voorbeeld: je wil meer tijd met familie en vrienden doorbrengen is vaag. O
 
 Formuleer je belangrijkste doelen op een SMART manier
 
-![](_images/smart-goals.jpg)
+![](images/smart-goals.jpg)
 
 Notes:
 
