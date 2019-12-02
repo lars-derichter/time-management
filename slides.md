@@ -153,6 +153,7 @@ Covey formuleert hier dus een heel eenvoudig antwoord op =>
 Notes:
 
 Probleem met veel doelen is als met goede voornemens: als je ze te vaag formuleert, heb je er niets aan.
+
 Bijv. Ik wil gezonder gaan leven is veel te vaag.
 
 &&&
@@ -162,7 +163,9 @@ Bijv. Ik wil gezonder gaan leven is veel te vaag.
 Notes:
 
 Ik wil op 30 juni 10 kg minder wegen dan nu en ik wil dat doen door te stoppen met limonades te drinken, gezondere snacks te eten (minstens twee keer per dag een stuk fruit in plaats van een koek of chocolade), maximum 1 keer per week junk food te eten en geen chips meer te eten voor de televisie en door drie keer per week met de fiets naar school te komen en twee keer per week een uur te gaan zwemmen.
+
 Dat is een hele boterham, maar je weet dat dat haalbaar is, je weet dat dat gaat helpen aan je vage doel en je kan op 30 juni weten of het gelukt is, maar ook op elk moment tussendoor kan je ook al weten of je goed bezig bent of niet (meetbaar). Hier kan je mee aan de slag.
+
 Ander voorbeeld: je wil meer tijd met familie en vrienden doorbrengen is vaag. Om de twee weken langs je grootouders gaan is veel concreter.
 
 &&&
@@ -388,7 +391,9 @@ Dat is waar je Zen vindt, waar de efficiëntie zit en waar de dingen zitten die 
 Notes:
 
 Hier is veel discussie over tussen productiviteitsgoeroes en -methodes. Sommigen zeggen begin met je moeilijkste taak van de dag, dan ben je er al vanaf en lijkt alles wat je die dag nog verder moet doen makkelijk ('Eat that frog first'), anderen zeggen om net met iets makkelijks te beginnen, zodat je al heel vroeg in de dag een succeservaring hebt die je kan helpen om in een flow te geraken ('Make up your bed everyday').
+
 Volgens mij hangt veel af van wanneer je het meeste energie hebt: ochtendmensen zijn waarschijnlijk best met de Eat that frog first-mentaliteit.
+
 Mijn truc is om de avond tevoren alles klaar te leggen/zetten voor mijn eerste taak (niet te moeilijk) van de dag, dan kan ik daar al geen tijd mee verliezen en is de stap om eraan te beginnen kleiner. Toen ik op een kantoor werkte, had ik een kaftje waar in grote letters START op stond, daarin stak ik mijn todo-lijst voor de volgende dag en alle documenten die ik nodig had voor mijn eerst taak.
 
 &&&
@@ -437,10 +442,15 @@ Notes:
 
 DE GROTE REDDER IN NOOD!! Van alle technieken die we bespreken is dit in mijn ervaring de krachtigste om de negatieve cyclus van uitstelgedrag en fear of starting te doorbreken.
 Het is een idee van Francesco Cirillo, een Italiaan. In Italië hebben de keukenwekkers de vorm van een tomaat (pomodoro) i.p.v. een ei.
+
 De techniek bestaat eruit om een timer te zetten voor 25 minuten. Gedurende die tijd werk je volledig gefocust en dan neem je 5 minuten pauze. Dit herhaal je vier keer (= 2 uur) en dan neem je een langere pauze (half uur). Daarna begin je opnieuw.
+
 Voordeel is dat je jezelf maar moet pushen om 25 minuten te werken en dat kan zelfs een kleuter in principe. (Tegen de instant gratification monkey zeggen dat hij je even 25 minuten gerust moet laten en dat dat echt niet lang is, lukt meestal wel. Een berg afwas van een week doen is een heel ander verhaal dan 25 minuten afwassen; 25 minuten studeren is minder onoverkomelijk dan een hele cursus blokken etc.)
+
 Als je de techniek helemaal volgt moet je ook streepjes zetten elke keer je afgeleid wordt en dan is het de bedoeling om een soort wedstrijdje van jezelf te maken om zo weinig mogelijk streepjes te hebben. Zo train je ook je focus.
+
 Als je met deze techniek begint (en je hebt echt veel last van uitstellen en/of je hebt moeite om te focussen) is 15min - 5 min soms haalbaarder en je vandaar opbouwen. Zelfs 10min-10min is al winst als het alternatief Netflix en niets is.
+
 Er bestaan veel apps die deze techniek implementeren. Bijv. [Forest app](https://www.forestapp.cc/) combineert dit met distraction blocking en gamification omdat je een bos bijeen probeert te sparen.
 
 &&&
@@ -450,8 +460,11 @@ Er bestaan veel apps die deze techniek implementeren. Bijv. [Forest app](https:/
 Notes:
 
 Als je een volle agenda hebt met veel afspraken (bijv. lessen) en vergaderingen of aald je vaak beschikbaar moet zijn voor onderbrekingen (bijv. op een helpdesk waar je telefoons en e-mails moet beantwoorden) heb je vaak het gevoel dat er geen tijd is om geconcentreerd en productief door te werken aan je taken.
+
 Daarom is het goed om in je kalender vaste momenten in te plannen voor geconcentreerd werk (de details van welk werk je dan doet laat je over aan je todo-list, maar je blokkeert tijd in je kalender/agenda).
+
 Veel managers plannen zo een aantal wekelijks terugkerende meetings met zichzelf, liefst in een afgelegen lokaaltje om tot echt werk te komen. Dat heet time-boxing dat kan je zelf ook toepassen bijv. elke zondag van 13:00-16:00 en elke woensdag van 15:00 - 17:00 werk je voor je studie).
+
 Door dat in te plannen weet je dat je elke week een aantal uur geconcentreerd zal werken (soms zal je nog extra momenten moeten zoeken, maar soms zal dat voldoende zijn). Zo blijf je ook makkelijker in Q2 en de regelmaat zal ook het Pavlov effect versterken dat de Instant Gratification Monkey dan even een dutje moet doen.
 
 &&&
