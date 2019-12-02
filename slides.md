@@ -491,6 +491,10 @@ Actionable:
   - time-specific => calendar <!-- .element: class="fragment" -->
   - not time-specific => todo list <!-- .element: class="fragment" -->
 
+&&&
+
+<!-- .slide: data-background-image="images/gtd-flow.png" data-background-size="contain" -->
+
 ---
 
 # To paper
@@ -554,4 +558,4 @@ Volgens gedragspsychologen heb je drie à vier weken nodig om je een gewoonte ei
 ## Licentie
 
 - Deze slideshow is gemaakt door [@lars-derichter](https://github.com/lars-derichter)
-- Beschikbaar onder de onder de volgende Creative Commons licentie: [Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl).
+- Beschikbaar onder de volgende Creative Commons licentie: [Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl).
