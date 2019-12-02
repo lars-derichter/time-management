@@ -391,7 +391,7 @@ Hier is veel discussie over tussen productiviteitsgoeroes en -methodes. Sommigen
 Volgens mij hangt veel af van wanneer je het meeste energie hebt: ochtendmensen zijn waarschijnlijk best met de Eat that frog first-mentaliteit.
 Mijn truc is om de avond tevoren alles klaar te leggen/zetten voor mijn eerste taak (niet te moeilijk) van de dag, dan kan ik daar al geen tijd mee verliezen en is de stap om eraan te beginnen kleiner. Toen ik op een kantoor werkte, had ik een kaftje waar in grote letters START op stond, daarin stak ik mijn todo-lijst voor de volgende dag en alle documenten die ik nodig had voor mijn eerst taak.
 
----
+&&&
 
 ## Kill Distractions
 
@@ -405,7 +405,7 @@ Trucs:
 - Installeer hulpmiddelen zoals [coldturkey](https://getcoldturkey.com/), [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji), [Forest app](https://www.forestapp.cc/) of [andere](https://freedom.to/blog/8-website-blockers-for-studying-productivity-focus/)
 - Maak afspraken met huisgenoten/collega’s. Bijv. deur dicht is alleen storen als er brand is of iemand op sterven ligt; deur op een kier is ik ben geconcentreerd aan het werken, maar als je vindt dat het dringend is, mag je aankloppen; deur open: ik ben niet aan het werk of ik ben domme taakjes aan het doen, kom maar binnen.
 
----
+&&&
 
 ## Beloon jezelf voor kleine overwinningen
 
@@ -417,7 +417,7 @@ Notes:
 - pas op met time sinks: even facebook checken, 1 aflevering kijken, 1 potje gamen... Voor je het weet zit je aan aflevering 3 van seizoen 2 van The IT-crowd en ken je elke grap van buiten...
 - Zo hou je de Instant Gratification Monkey tevreden en neemt hij niet als een opstandige puber het roer over
 
----
+&&&
 
 ## Rituelen
 
@@ -429,7 +429,7 @@ Pavlov-effect werkt ook bij mensen, maak hier gebruik van:
 - Als ik veel verbeterwerk heb, ga ik altijd naar dezelfde koffiebar.
 - Als ik een tekst moet schrijven zet ik altijd het VIoolconcerto van Saint-Saens op, gewoon omdaét dat hielp om mij te concentreren toen ik mijn thesis schreef en nu kom ik nog steeds in een schrijf-flow als ik dat op zet.
 
----
+&&&
 
 ## Pomodoro Technique
 
@@ -443,7 +443,7 @@ Als je de techniek helemaal volgt moet je ook streepjes zetten elke keer je afge
 Als je met deze techniek begint (en je hebt echt veel last van uitstellen en/of je hebt moeite om te focussen) is 15min - 5 min soms haalbaarder en je vandaar opbouwen. Zelfs 10min-10min is al winst als het alternatief Netflix en niets is.
 Er bestaan veel apps die deze techniek implementeren. Bijv. [Forest app](https://www.forestapp.cc/) combineert dit met distraction blocking en gamification omdat je een bos bijeen probeert te sparen.
 
----
+&&&
 
 ## Time Boxing
 
@@ -454,7 +454,7 @@ Daarom is het goed om in je kalender vaste momenten in te plannen voor geconcent
 Veel managers plannen zo een aantal wekelijks terugkerende meetings met zichzelf, liefst in een afgelegen lokaaltje om tot echt werk te komen. Dat heet time-boxing dat kan je zelf ook toepassen bijv. elke zondag van 13:00-16:00 en elke woensdag van 15:00 - 17:00 werk je voor je studie).
 Door dat in te plannen weet je dat je elke week een aantal uur geconcentreerd zal werken (soms zal je nog extra momenten moeten zoeken, maar soms zal dat voldoende zijn). Zo blijf je ook makkelijker in Q2 en de regelmaat zal ook het Pavlov effect versterken dat de Instant Gratification Monkey dan even een dutje moet doen.
 
----
+&&&
 
 ## Pas op voor productivity porn!!
 
@@ -509,13 +509,13 @@ Notes:
   - Reminders
   - Geen gedoe met bic en potlood
 
----
+&&&
 
 # Papier
 
 Agenda & notitieboekje
 
----
+&&&
 
 # Online / Apps
 
@@ -543,7 +543,7 @@ Volgens gedragspsychologen heb je drie à vier weken nodig om je een gewoonte ei
 - [Babauta, Leo: Zen To Done. Te Ultimate Simple Productivity System.](http://zenhabits.net/zen-to-done-the-simple-productivity-e-book/)
 - [Cirillo, Francesco: The Pomodoro Technique. 2007.](http://www.pomodorotechnique.com/resources/TePomodoroTechnique_v1-3.pdf)
 
----
+&&&
 
 - Covey, Stephen R.: The 7 Habits of Highly Efective People. Powerfull Lessons in Personal Change. 1989. London: Simon & Schuster.
 - Covey, Stephen R., A. Roger Merril & Rebecca R. Merril: First Tings First. 2003. London: Simon & Schuster.
